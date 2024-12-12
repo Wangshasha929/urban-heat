@@ -1,1 +1,2 @@
 # urban-heat
+Our investigation presents a comprehensive analysis of the dual impacts of the UHI effect and commonly employed cooling strategies on temperature-related mortality, spanning current and future scenarios across over 3,000 cities worldwide. Here, we have made available public links to our datasets, encompassing key results for MMP, MMT, mortality risk at different percentiles, UHI-induced heat-related and cold-related mortality, along with changes in heat-related and cold-related mortality under various strategies.
